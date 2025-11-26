@@ -1,0 +1,6 @@
+../Core/Src/AS5048.c:15:20:cs_low	1
+../Core/Src/AS5048.c:16:20:cs_high	1
+../Core/Src/AS5048.c:18:19:AS5048_Init	1
+../Core/Src/AS5048.c:22:16:parity16	1
+../Core/Src/AS5048.c:26:19:AS5048_ReadRaw	3
+../Core/Src/AS5048.c:40:7:AS5048_ReadAngleRad	2
