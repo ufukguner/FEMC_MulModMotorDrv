@@ -11,10 +11,10 @@ Serial callback function in MATLAB that receives, parses, and processes incoming
 
 ## STM32 Firmware (MulMotDrv)
 
-**Project:** `MulMotDrv.zip`  
+**Project:** `MulMotDrv`  
 **Development Environment:** STM32CubeIDE **v1.16.1**
 
-### Source Files (`MulMotDrv/Core/Src`)
+### Source Files (`Core/Src`)
 
 MulMotDrv/Core/Src/
 
