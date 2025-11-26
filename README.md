@@ -1,5 +1,5 @@
 # FEMC_MulModMotorDrv
-## Design and PCD
+## Design and PCB
 QuadDrv405_Schematic_PCB.pdf
 
 ## MATLAB Scripts
